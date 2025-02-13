@@ -9,7 +9,7 @@ I am Huamao Xie (谢华茂), currently a Ph.D. candidate at the School of Comput
 ## Research Interests
 
 - **Cloud Computing:** cloud workflow scheduling, cloud task scheduling, cloud resource allocation, virtual machine placement
-- **Multi-objective Optimization:** neural networks + multi-objective evolutionary algorithms, reinforcement learning + multi-objective evolutionary algorithms
+- **Multi-objective Optimization:** multi-objective evolutionary algorithms, neural networks, reinforcement learning
 
 ## News
 
