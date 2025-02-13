@@ -8,8 +8,8 @@ I am Huamao Xie, currently a Ph.D. candidate at the School of Computer Science, 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Cloud Computing:** cloud workflow scheduling, cloud task scheduling, cloud resource allocation, virtual machine placement
+- **Multi-objective Optimization:** neural networks + multi-objective evolutionary algorithms, reinforcement learning + multi-objective evolutionary algorithms
 
 ## News
 
