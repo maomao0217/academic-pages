@@ -1,9 +1,9 @@
 main:
 
   - title: Transfer Learning Based Multi-Objective Evolutionary Algorithm for Dynamic Workflow Scheduling in the Cloud
-    authors: Huamao Xie, Ding Ding, Lihong Zhao, Kaixuan Kang, <strong>Huamao Xie*</strong>* (*Corresponding authors)
+    authors: <strong>Huamao Xie</strong>, Ding Ding*, Lihong Zhao, Kaixuan Kang
     conference_short: TCC
-    conference: IEEE Transactions on Cloud Computing <strong>(TCC)</strong>, 2024.
+    conference: IEEE Transactions on Cloud Computing (TCC), 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10654701
     code: https://github.com/maomao0217/Transfer-Learning-Based-Multi-Objective-Evolutionary-Algorithm-for-Dynamic-Workflow-Scheduling
     bibtex: https://dblp.uni-trier.de/rec/journals/tcc/XieDZK24.html?view=bibtex
