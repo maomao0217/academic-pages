@@ -13,10 +13,12 @@ I am Huamao Xie (谢华茂), currently a Ph.D. candidate at the School of Comput
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2021]** Our paper on virtual machine placement via deep reinforcement learning has been accepted to TASE.
+- **[Dec. 2021]** Our paper on cloud task scheduling via deep reinforcement learning has been accepted to *TASE*.   
+- **[Oct. 2023]** Our paper on cloud workflow scheduling with preference-based multi-objective evolutionary algorithms has been accepted to *TASE*. 
+- **[Jan. 2024]** Our paper on imitation learning for cloud task scheduling has been accepted to *TASE*.
+- **[Aug. 2024]** Our paper on dynamic cloud workflow scheduling using multi-objective evolutionary algorithms and transfer learning has been accepted to *TASE*.  
+
 
 {% include_relative _includes/publications.md %}
 
