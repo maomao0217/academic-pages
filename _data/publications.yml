@@ -7,7 +7,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10654701
     code: https://github.com/maomao0217/Transfer-Learning-Based-Multi-Objective-Evolutionary-Algorithm-for-Dynamic-Workflow-Scheduling
     bibtex: https://dblp.uni-trier.de/rec/journals/tcc/XieDZK24.html?view=bibtex
-    image: ./assets/img/TLMOEA.png
+    image: ./assets/img/TLMOEA.PNG
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
