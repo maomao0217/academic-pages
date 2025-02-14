@@ -9,15 +9,6 @@ main:
     bibtex: https://dblp.uni-trier.de/rec/journals/tcc/XieDZK24.html?view=bibtex
     image: ./assets/img/TLMOEA.PNG
 
-  - title: A two-stage preference driven multi-objective evolutionary algorithm for workflow scheduling in the Cloud
-    authors: <strong>Huamao Xie</strong>, Ding Ding*, Lihong Zhao, Kaixuan Kang, Qiaofeng Liu
-    conference_short: ESWA
-    conference: Expert Systems with Applications (ESWA), 2023.
-    pdf: https://www.sciencedirect.com/science/article/pii/S0957417423025113
-    code: https://github.com/maomao0217/A-two-stage-preference-driven-multi-objective-evolutionary-algorithm-for-workflow-scheduling
-    bibtex: https://dblp.uni-trier.de/rec/journals/eswa/XieDZKL24.html?view=bibtex
-    image: ./assets/img/tspMOEA.PNG
-    
   - title: Imitation learning enabled fast and adaptive task scheduling in cloud
     authors: Kaixuan Kang, Ding Ding*, <strong>Huamao Xie</strong>, Lihong Zhao, Yinong Li, Yixuan Xie
     conference_short: FGCS
@@ -26,7 +17,16 @@ main:
     code: https://github.com/BJTUHPCRT/Imitation-Learning-Enabled-Fast-and-Adaptive-Task-Scheduling-in-Cloud
     bibtex: https://dblp.uni-trier.de/rec/journals/fgcs/KangDXZLX24.html?view=bibtex
     image: ./assets/img/ILETS.PNG
-    
+
+  - title: A two-stage preference driven multi-objective evolutionary algorithm for workflow scheduling in the Cloud
+    authors: <strong>Huamao Xie</strong>, Ding Ding*, Lihong Zhao, Kaixuan Kang, Qiaofeng Liu
+    conference_short: ESWA
+    conference: Expert Systems with Applications (ESWA), 2023.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0957417423025113
+    code: https://github.com/maomao0217/A-two-stage-preference-driven-multi-objective-evolutionary-algorithm-for-workflow-scheduling
+    bibtex: https://dblp.uni-trier.de/rec/journals/eswa/XieDZKL24.html?view=bibtex
+    image: ./assets/img/tspMOEA.PNG
+      
   - title: Adaptive DRL-based virtual machine consolidation in energy-efficient cloud data center
     authors: Jing Zeng, Ding Ding*, Kaixuan Kang, <strong>Huamao Xie</strong>, Qian Yin
     conference_short: TPDS
