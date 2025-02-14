@@ -1,14 +1,13 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Transfer Learning Based Multi-Objective Evolutionary Algorithm for Dynamic Workflow Scheduling in the Cloud
+    authors: Huamao Xie, Ding Ding, Lihong Zhao, Kaixuan Kang, <strong>Huamao Xie*</strong>* (*Corresponding authors)
+    conference_short: TCC
+    conference: IEEE Transactions on Cloud Computing <strong>(TCC)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10654701
+    code: https://github.com/maomao0217/Transfer-Learning-Based-Multi-Objective-Evolutionary-Algorithm-for-Dynamic-Workflow-Scheduling
+    bibtex: https://dblp.uni-trier.de/rec/journals/tcc/XieDZK24.html?view=bibtex
+    image: ./assets/img/TLMOEA.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
@@ -20,3 +19,13 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+    - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
