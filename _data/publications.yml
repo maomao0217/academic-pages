@@ -1,5 +1,16 @@
 main:
 
+
+  - title: SPAD: Spatial Perception and Action Decoupling Empowered Multi-Agent AI Task Scheduling Framework in Cloud-Edge Computing
+    authors: <strong>Yinong Li</strong>, Ding Ding*, Huamao Xie, Lihong Zhao, Yaqing Jin, Yixuan Xie, Ziyun Fang
+    conference_short: ToN
+    conference: IEEE Transactions on Networking (ToN), 2025.
+    pdf: https://ieeexplore.ieee.org/abstract/document/11277362
+    code: https://github.com/BJTUHPCRT
+    bibtex: https://dblp.org/rec/journals/ton/LiDXZJXF26.html?view=bibtex
+    image: ./assets/img/SPAD.PNG
+
+    
   - title: Transfer Learning Based Multi-Objective Evolutionary Algorithm for Dynamic Workflow Scheduling in the Cloud
     authors: <strong>Huamao Xie</strong>, Ding Ding*, Lihong Zhao, Kaixuan Kang
     conference_short: TCC
