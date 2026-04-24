@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Huamao Xie (谢华茂), currently a Lecturer at Jiangxi University of Science and Technology. I received my Ph.D. degree in 2025 from the School of Computer Science and Technology, Beijing Jiaotong University, under the supervision of Prof. [Ding Ding](https://faculty.bjtu.edu.cn/7492/). I obtained my Master of Engineering degree in 2020 from Jiangxi University of Science and Technology, under the supervision of Prof. [Zhendong Wang](https://ie.jxust.edu.cn/info/1094/8176.htm). My research interests include cloud workflow scheduling, evolutionary multi-objective optimization, intelligent optimization algorithms, and machine learning-driven optimization. My current work focuses on developing efficient and practical optimization methods for large-scale and real-world engineering applications.
+I am Huamao Xie (谢华茂), currently a Lecturer at the School of Information Engineering, Jiangxi University of Science and Technology. I received my Ph.D. degree in 2025 from the School of Computer Science and Technology, Beijing Jiaotong University, under the supervision of Prof. [Ding Ding](https://faculty.bjtu.edu.cn/7492/). I obtained my Master of Engineering degree in 2020 from Jiangxi University of Science and Technology, under the supervision of Prof. [Zhendong Wang](https://ie.jxust.edu.cn/info/1094/8176.htm). My research interests include cloud workflow scheduling, evolutionary multi-objective optimization, intelligent optimization algorithms, and machine learning-driven optimization. My current work focuses on developing efficient and practical optimization methods for large-scale and real-world engineering applications.
 
 ## Research Interests
 
