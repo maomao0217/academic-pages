@@ -11,7 +11,7 @@ main:
     image: ./assets/img/RLEAO.PNG
 
   - title: Reinforcement learning-driven interval multi-objective evolutionary algorithm for task offloading in uncertain cloud-edge
-    authors: Yaqing Jin, Ding Ding*, <strong>Huamao Xie</strong>, et al.
+    authors: Yaqing Jin, Ding Ding*, <strong>Huamao Xie</strong>, Yinong Li, Lihong Zhao
     conference_short: EAAI
     conference: Engineering Applications of Artificial Intelligence (EAAI), 2026.
     pdf: https://doi.org/10.1016/j.engappai.2026.115043
