@@ -13,7 +13,7 @@ I am Huamao Xie (谢华茂), currently a Lecturer at the School of Information E
 
 ## News
 
-- **[Jun. 2026]** Our paper on reinforcement learning-assisted evolutionary auxiliary optimization for multi-workflow scheduling in cloud environments has been accepted to *SWEVO*.
+- **[May. 2026]** Our paper on reinforcement learning-assisted evolutionary auxiliary optimization for multi-workflow scheduling in cloud environments has been accepted to *SWEVO*.
 - **[May. 2026]** Our paper on reinforcement learning-driven interval multi-objective evolutionary algorithm for task offloading in uncertain cloud–edge environments has been accepted to *EAAI*.
 - **[Dec. 2025]** Our paper on SPAD: Spatial Perception and Action Decoupling Empowered Multi-Agent AI Task Scheduling Framework in Cloud-Edge Computing has been accepted to *ToN*.
 - **[Aug. 2024]** Our paper on dynamic cloud workflow scheduling using multi-objective evolutionary algorithms and transfer learning has been accepted to *TCC*.
